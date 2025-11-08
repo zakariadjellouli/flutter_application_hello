@@ -10,14 +10,14 @@ Application Flutter simple affichant un message de bienvenue personnalisé. Dév
 
 ##  Étapes de Travail
 
-# Étape 1 : Vérifier la configuration Flutter
+### Étape 1 : Vérifier la configuration Flutter
 
-# Étape 2 : Créer un nouveau projet Flutter
+### Étape 2 : Créer un nouveau projet Flutter
 
-# Étape 3 : Explorer la structure du projet
+### Étape 3 : Explorer la structure du projet
 
-# Étape 4 : Lancer l'application depuis VS Code
+### Étape 4 : Lancer l'application depuis VS Code
 
-# Étape 5 : Modifier le code source
+### Étape 5 : Modifier le code source
 
-# Étape 6 : Tester sur plusieurs environnements
+### Étape 6 : Tester sur plusieurs environnements
