@@ -6,7 +6,7 @@ Ma première application Flutter - Application "Hello World" développée avec l
 
 ##  Description
 
-Application Flutter simple affichant un message de bienvenue personnalisé. Développée dans le cadre du cours de Développement d'applications en 2ème année Techniques des Systèmes Informatiques.
+Application Flutter simple affichant un message de bienvenue personnalisé.
 
 ##  Étapes de Travail
 
